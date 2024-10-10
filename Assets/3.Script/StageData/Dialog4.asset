@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e868aee959705a244855d867f63d6632, type: 3}
+  m_Name: Dialog4
+  m_EditorClassIdentifier: 
+  charList:
+  - {fileID: 21300000, guid: ad0f873ac6c7ea44b9ef43e8e1ae3724, type: 3}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 21300000, guid: b914e05485c42b742977fd5754e0f1e0, type: 3}
+  - {fileID: 21300000, guid: 5529a5f6ee60a8c469cd94de02788fd3, type: 3}
+  - {fileID: 0}
+  - {fileID: 21300000, guid: 23cc26b1e1e7fe94b9a497aa33198e8f, type: 3}
+  - {fileID: 21300000, guid: 246090f0a8b7e9f47a1bb0d461d56053, type: 3}
+  - {fileID: 0}
+  subCharList:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  nameList:
+  - "\u2022 \uACFC\uD559 \uC545\uB9C8 \uB85C\uC5B4\uB9C8\uC2A4\uD130 \u2022"
+  - "\u2022 \uACFC\uD559 \uC545\uB9C8 \uB85C\uC5B4\uB9C8\uC2A4\uD130 \u2022"
+  - "\u2022 \uACFC\uD559 \uC545\uB9C8 \uB85C\uC5B4\uB9C8\uC2A4\uD130 \u2022"
+  - "\u2022 \uC2E4\uD5D8\uCCB4 67\uD638 \u2022"
+  - "\u2022 \uACFC\uD559 \uC545\uB9C8 \uB85C\uC5B4\uB9C8\uC2A4\uD130 \u2022"
+  - "\u2022 \uACFC\uD559 \uC545\uB9C8 \uB85C\uC5B4\uB9C8\uC2A4\uD130 \u2022"
+  - "\u2022 \uACFC\uD559 \uC545\uB9C8 \uB85C\uC5B4\uB9C8\uC2A4\uD130 \u2022"
+  - "\u2022 \uACFC\uD559 \uC545\uB9C8 \uB85C\uC5B4\uB9C8\uC2A4\uD130 \u2022"
+  - "\u2022 \uACFC\uD559 \uC545\uB9C8 \uB85C\uC5B4\uB9C8\uC2A4\uD130 \u2022"
+  scriptList:
+  - "\uB0B4\uAC00 \uC5EC\uD0DC\uAECF \uC218 \uB9CE\uC740 \uC545\uD589\uC744 \uC800\uC9C8\uB800\uC9C0.\uB9DE\uC544.\uADF8\uB798\uB3C4
+    \uC804\uBD80 \uACFC\uD559\uC774\uB77C\uB294 \uBA85\uBD84\uC774 \uC788\uC5C8\uC5B4."
+  - "\uADF8\uB807\uAC8C \uBAA8\uB4E0 \uC8C4\uB294 \uBD84\uC11D\uB418\uACE0,\uBD84\uB958\uB418\uC5B4
+    \uAE30\uB85D\uB420 \uC218 \uC788\uC5C8\uC9C0...\uC5B8\uC820\uAC04 \uBC14\uB85C
+    \uC7A1\uD790\uC9C0\uB3C4 \uBAA8\uB974\uACE0..."
+  - "\uADF8\uB798\uC11C \uCC9C\uC0AC\uAC00 \uC545\uB9C8\uC640 \uB2EC\uB77C.\uBAA8\uB4E0
+    \uD589\uB3D9\uC758 \uBC14\uD0D5\uC5D0 \uB3D9\uAE30\uAC00 \uAE54\uB824\uC788\uAC70\uB4E0."
+  - "\uACC4\uC18D \uD63C\uC7A3\uB9D0\uC744 \uC9C0\uAEC4\uC5EC \uBD10\uB77C,\uBBF8\uCE58\uAD11\uC774\uC57C.\uC870\uB9CC\uAC04
+    \uB124 \uBAA9\uC5D0 \uB0B4 \uC190\uC544\uADC0\uAC00 \uB458\uB7EC\uC838 \uC788\uC744\uAC70\uB2E4."
+  - "\uB0B4\uAC00 \uCC9C\uC0AC\uC778 \uAC78 \uC548 \uBBFF\uC9C0?\uC751?"
+  - "\uB0B4 \uD6C4\uAD11\uC744 \uBCF4\uC5EC\uC904 \uC218\uB3C4 \uC788\uB294\uB370..\uC5B4\uB514\uB2E4
+    \uB480\uB294\uC9C0 \uC54C \uC218\uB9CC \uC788\uB2E4\uBA74."
+  - "\uC7A0\uAE50\uB9CC..\uB0B4\uAC00.."
+  - "\uC544\uB2C8,\uC544\uB2C8,\uADF8\uB7F4 \uB9AC\uAC00.\uB2E4\uB978 \uAC00\uC6B4\uC5D0
+    \uB123\uC5B4 \uB480\uACA0\uC9C0."
+  - "\uB2E4\uC74C \uC2E4\uD5D8\uC740 \uD2B9\uBCC4\uD788 \uB354 \uAC00\uD639\uD560
+    \uAC70\uC57C.\uC7AC\uBC0C\uAC8C \uBCF4\uB0B4."
+  isDouble: 000000000000000000
+  dialogCount: 9

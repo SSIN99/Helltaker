@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e868aee959705a244855d867f63d6632, type: 3}
+  m_Name: Dialog7
+  m_EditorClassIdentifier: 
+  cutseen:
+  - {fileID: 0}
+  - {fileID: 21300000, guid: bf7e7bd028e57a94b94ad1d410261277, type: 3}
+  - {fileID: 0}
+  - {fileID: 0}
+  charList:
+  - {fileID: 21300000, guid: 30ccbf5c21da2b24bb13793a38ac7171, type: 3}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 21300000, guid: b914e05485c42b742977fd5754e0f1e0, type: 3}
+  - {fileID: 21300000, guid: e4cfcdef4ccbcb1429b754f7dfb440d1, type: 3}
+  - {fileID: 0}
+  - {fileID: 21300000, guid: 96e5553c7373285449c451def9b3a272, type: 3}
+  - {fileID: 21300000, guid: 120e6d1955997c243bb0b2b24ea818d5, type: 3}
+  - {fileID: 21300000, guid: 9a7b52deb95e5ac44bba013941f33d84, type: 3}
+  - {fileID: 21300000, guid: 7cb73aad4e8976d4a99cabcd0e851b13, type: 3}
+  - {fileID: 21300000, guid: 8c64ee126e7ded04f90d98f981a04137, type: 3}
+  - {fileID: 21300000, guid: 5a50806f602d71b48848ec4be87f4b2a, type: 3}
+  - {fileID: 21300000, guid: b914e05485c42b742977fd5754e0f1e0, type: 3}
+  - {fileID: 21300000, guid: b5bb90e549b66174aa31feaf57529d5b, type: 3}
+  subCharList:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  nameList:
+  - "\u2022 \uACFC\uD559 \uC545\uB9C8 \uB85C\uC5B4\uB9C8\uC2A4\uD130 \u2022"
+  - "\u2022 \uACFC\uD559 \uC545\uB9C8 \uB85C\uC5B4\uB9C8\uC2A4\uD130 \u2022"
+  - "\u2022 \uACFC\uD559 \uC545\uB9C8 \uB85C\uC5B4\uB9C8\uC2A4\uD130 \u2022"
+  - "\u2022 \uC2E4\uD5D8\uCCB4 67\uD638 \u2022"
+  - "\u2022 \uACFC\uD559 \uC545\uB9C8 \uB85C\uC5B4\uB9C8\uC2A4\uD130 \u2022"
+  - "\u2022 \uACFC\uD559 \uC545\uB9C8 \uB85C\uC5B4\uB9C8\uC2A4\uD130 \u2022"
+  - "\u2022 \uBA54\uC774\uB4DC \uC545\uB9C8 \uB8E8\uC2DC\uD37C \u2022"
+  - "\u2022 \uACFC\uD559 \uC545\uB9C8 \uB85C\uC5B4\uB9C8\uC2A4\uD130 \u2022"
+  - "\u2022 \uC560\uD50C \uD30C\uC774 \uC545\uB9C8 \uC800\uC2A4\uD2F0\uC2A4 \u2022"
+  - "\u2022 \uACFC\uD559 \uC545\uB9C8 \uB85C\uC5B4\uB9C8\uC2A4\uD130 \u2022"
+  - "\u2022 \uBA54\uC774\uB4DC \uC545\uB9C8 \uB8E8\uC2DC\uD37C \u2022"
+  - "\u2022 \uC560\uD50C \uD30C\uC774 \uC545\uB9C8 \uC800\uC2A4\uD2F0\uC2A4 \u2022"
+  - "\u2022 \uC2E4\uD5D8\uCCB4 67\uD638 \u2022"
+  - "\u2022 \uACFC\uD559 \uC545\uB9C8 \uB85C\uC5B4\uB9C8\uC2A4\uD130 \u2022"
+  scriptList:
+  - "\uD1B5\uACFC\uD588\uB124."
+  - "\uC6B0\uB9AC\uAC00 \uB4DC\uB514\uC5B4 \uD574\uB0C8\uC5B4."
+  - "\uCC3D\uC870 \uADF8 \uC790\uCCB4\uC5D0 \uB300\uD56D\uD558\uB294 \uC8C4\uC545\uC744
+    \uC800\uC9C8\uB800\uB2E4\uACE0."
+  - "\uD658\uC0C1\uC801\uC774\uAD70.\uC774\uC81C \uC560\uD50C \uD30C\uC774\uB97C
+    \uB118\uACA8\uC904 \uCC28\uB840\uB2E4.\uC904 \uAC70\uC9C0?"
+  - "\uC544\uAE4C \uC8FC\uACA0\uB2E4\uB358 \uC560\uD50C \uD30C\uC774 \uB9D0\uC57C?\uB108\uBB34
+    \uC2E0\uB098\uC11C \uC774\uBBF8 \uB2E4 \uBA39\uC5B4 \uCE58\uC6E0\uC5B4."
+  - "\uADF8\uB7EC\uB2C8\uAE4C \uB8E8\uC2DC\uAC00 \uB9D0\uC57C."
+  - ...
+  - "\uC6B0\uB9AC \uC218\uC11D \uC560\uD50C \uD30C\uC774 \uACFC\uD559\uC790\uAC00
+    \uB354 \uB9CC\uB4E4\uC5B4 \uC62C \uB54C\uAE4C\uC9C0 \uAE30\uB2E4\uB824."
+  - "\uC560\uD50C \uD30C\uC774 \uB2E4 \uB410\uC5B4"
+  - "\uC545\uB9C8\uB3C4 \uC81C \uB9D0\uD558\uBA74 \uC628\uB2E4\uB354\uB2C8.\uC800\uC2A4\uD2F0\uC2A4\uB294
+    \uC544\uB08C\uC5C6\uC774 \uC8FC\uB294 \uCD95\uBCF5\uC774\uC57C."
+  - "\uB354 \uB9D0\uD560 \uB098\uC704\uAC00 \uC5C6\uC9C0\uC694."
+  - "\uC544\uC774 \uCC38,\uC598\uB4E4\uC774"
+  - "\uBA39\uB2E4\uAC00 \uBAA9\uC5D0\uB098 \uAC78\uB824 \uBC84\uB824\uB77C,\uC815\uC2E0\uB098\uAC04
+    \uB9C8\uB140\uB4E4\uC544!"
+  - "\uC790,\uB124 \uC560\uD50C\uD30C\uC774\uC57C.\uBA39\uC744 \uC790\uACA9\uC774
+    \uC788\uC796\uC544."
+  - "\uB8E8\uC2DC,\uCEE4\uD53C\uB3C4 \uC880 \uAC00\uC838 \uC640\uC918."
+  - "67,\uB10C \uC2E0\uC885 \uC545\uB9C8\uB85C\uC11C \uCD5C\uCD08\uB85C \uC815\uC0C1\uC801\uC774\uACE0
+    \uC548\uC815\uC801\uC778 \uD45C\uBCF8\uC774\uC57C."
+  - "\uC6B0\uB9AC\uAC00 \uB108\uB85C\uBD80\uD130 \uC5BC\uB9C8\uB098 \uB9CE\uC774
+    \uC54C\uC544\uB0BC \uC9C0 \uC798 \uBAA8\uB97C\uAC70\uC57C."
+  - "\uC6B0\uB9B0 \uBAA8\uB4E0 \uAC78 \uC54C\uC544 \uAC08\uAC70\uC57C"
+  isDouble: 0000000000000000000000000000
+  dialogCount: 14
